@@ -8,7 +8,7 @@ Steps to run the project:
   4. Start the Apache server and the MySQL server.
   5. Open your Browser and type in "localhost/phpmyadmin"
   6. Create a new database named "slotify"
-  7. Import the "SlotifyCreateCompleteDatabaseSoFar.sql" File to create all the tables and also to insert the data in the database.
+  7. Import the "SlotifyCreateWholeDatabaseSoFar.sql" File to create all the tables and also to insert the data in the database.
   8. Open a new tab in the browser and type "localhost/slotify/register.php"
   9. Sign up and create a new account
   10. Enjoy the site!
